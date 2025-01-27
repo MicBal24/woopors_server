@@ -1,1 +1,0 @@
-# woopors_server
