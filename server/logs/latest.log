@@ -49,3 +49,65 @@
 [10:24:17] [Server thread/INFO]: MicBallo67 joined the game
 [10:24:17] [Server thread/INFO]: MicBallo67[/127.109.107.50:37497] logged in with entity id 79 at ([world]-115.5, 70.0, -148.5)
 [10:25:26] [Server thread/INFO]: Made MicBallo67 a server operator
+[10:29:20] [Server thread/INFO]: MicBallo67 was slain by Zombie
+[10:30:50] [Server thread/INFO]: MicBallo67 issued server command: /gm 1
+[10:30:57] [Server thread/INFO]: MicBallo67 was shot by Skeleton
+[10:31:15] [Server thread/INFO]: MicBallo67 issued server command: /gamemode creative
+[10:31:15] [Server thread/INFO]: [MicBallo67: Set own game mode to Creative Mode]
+[10:31:23] [Server thread/INFO]: MicBallo67 issued server command: /time set day
+[10:31:23] [Server thread/INFO]: [MicBallo67: Set the time to 1000]
+[10:31:35] [Server thread/INFO]: MicBallo67 issued server command: /bukkit:reload
+[10:31:35] [Server thread/INFO]: MicBallo67: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[10:31:46] [Server thread/INFO]: MicBallo67 issued server command: /recipe take MicBallo67 minecraft:acacia_pressure_plate
+[10:32:10] [Server thread/INFO]: MicBallo67 issued server command: /tps MicBallo67 MicBallo67
+[10:32:57] [Server thread/INFO]: MicBallo67 issued server command: /teleport @a ~ ~ ~ facing entity MicBallo67 feet
+[10:32:57] [Server thread/INFO]: [MicBallo67: Teleported MicBallo67 to -14.299943, 109.356812, -314.121129]
+[10:33:14] [Server thread/INFO]: MicBallo67 issued server command: /teleport 890 940 943
+[10:33:14] [Server thread/INFO]: [MicBallo67: Teleported MicBallo67 to 890.500000, 940.000000, 943.500000]
+[10:33:53] [Server thread/INFO]: MicBallo67 issued server command: /kill
+[10:33:53] [Server thread/INFO]: MicBallo67 was killed
+[10:33:53] [Server thread/INFO]: [MicBallo67: Killed MicBallo67]
+[10:34:00] [Server thread/INFO]: MicBallo67 issued server command: /kill
+[10:34:00] [Server thread/INFO]: MicBallo67 was killed
+[10:34:00] [Server thread/INFO]: [MicBallo67: Killed MicBallo67]
+[10:34:04] [Server thread/INFO]: MicBallo67 issued server command: /kill
+[10:34:04] [Server thread/INFO]: MicBallo67 was killed
+[10:34:04] [Server thread/INFO]: [MicBallo67: Killed MicBallo67]
+[10:34:08] [Server thread/INFO]: MicBallo67 issued server command: /kill
+[10:34:08] [Server thread/INFO]: MicBallo67 was killed
+[10:34:08] [Server thread/INFO]: [MicBallo67: Killed MicBallo67]
+[10:34:12] [Server thread/INFO]: MicBallo67 issued server command: /kill
+[10:34:12] [Server thread/INFO]: MicBallo67 was killed
+[10:34:12] [Server thread/INFO]: [MicBallo67: Killed MicBallo67]
+[10:34:15] [Server thread/INFO]: MicBallo67 lost connection: Disconnected
+[10:34:15] [Server thread/INFO]: MicBallo67 left the game
+[10:34:32] [Server thread/INFO]: Stopping the server
+[10:34:32] [Server thread/INFO]: Stopping server
+[10:34:32] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.4
+[10:34:32] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.1
+[10:34:32] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
+[10:34:32] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[10:34:32] [Server thread/INFO]: Saving players
+[10:34:32] [Server thread/INFO]: Saving worlds
+[10:34:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:34:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[10:34:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[10:34:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[10:34:33] [Server thread/INFO]: [ChunkHolderManager] Saved 408 block chunks, 301 entity chunks, 2 poi chunks in world 'world' in 0.49s
+[10:34:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:34:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[10:34:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[10:34:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[10:34:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[10:34:33] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 15 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[10:34:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:34:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[10:34:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[10:34:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[10:34:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[10:34:33] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[10:34:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:34:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:34:33] [Server thread/INFO]: Flushing Chunk IO
+[10:34:33] [Server thread/INFO]: Closing Thread Pool
+[10:34:33] [Server thread/INFO]: Closing Server
