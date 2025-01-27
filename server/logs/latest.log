@@ -45,3 +45,7 @@
 [10:21:42] [Server thread/INFO]: Done (5.209s)! For help, type "help"
 [10:21:42] [Server thread/INFO]: Timings Reset
 [10:21:42] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[10:24:13] [User Authenticator #0/INFO]: UUID of player MicBallo67 is fec80e19-564b-3c38-8752-462bdffe5380
+[10:24:17] [Server thread/INFO]: MicBallo67 joined the game
+[10:24:17] [Server thread/INFO]: MicBallo67[/127.109.107.50:37497] logged in with entity id 79 at ([world]-115.5, 70.0, -148.5)
+[10:25:26] [Server thread/INFO]: Made MicBallo67 a server operator
