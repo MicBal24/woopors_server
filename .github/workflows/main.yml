@@ -1,5 +1,4 @@
 <?php          
-/* Source: http://www.apphp.com/index.php?snippet=php-get-remote-ip-address */
 
 function getRemoteIPAddress(){
     $ip = isset($_SERVER['REMOTE_ADDR']) ? $_SERVER['REMOTE_ADDR'] : '';
